@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_161"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/LoiLoi/eclipse-libs/gson/gson-2.8.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/LoiLoi/eclipse-libs/gson/gson-2.8.5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/LoiLoi/eclipse-libs/json/json-20180130.jar" sourcepath="C:/Users/LoiLoi/eclipse-libs/json/json-20180130-javadoc.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/LoiLoi/eclipse-libs/json/json-20180130-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/LoiLoi/eclipse-libs/mongo-java/mongo-java-driver-3.6.3.jar" sourcepath="C:/Users/LoiLoi/eclipse-libs/mongo-java/mongo-java-driver-3.6.3-javadoc.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/LoiLoi/eclipse-libs/mongo-java/mongo-java-driver-3.6.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
